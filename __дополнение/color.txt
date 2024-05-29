@@ -1,0 +1,15 @@
+#0d6efd; rgba(13, 110, 253, 1);  hsl(215, 98%, 52%) - blue (primary)
+#6610f2; rgba(102, 16, 242, 1);  hsl(262, 89%, 50%) - indigo
+#6f42c1; rgba(111, 66, 193, 1);  hsl(261, 50%, 50%) - purple
+#d63384; rgba(214, 51, 132, 1);  hsl(330, 66%, 51%) - pink
+#dc3545; rgba(220, 53, 69, 1);   hsl(354, 70%, 53%) - red (danger)
+#fd7e14; rgba(253, 126, 20, 1);  hsl(27, 98%, 53%) - orange
+#ffc107; rgba(255, 193, 7, 1);   hsl(45, 100%, 51%) - yellow (warning)
+#198754; rgba(25, 135, 84, 1);   hsl(152, 68%, 31%) - green (success)
+#20c997; rgba(32, 201, 151, 1);  hsl(162, 72%, 45%) - teal
+#0dcaf0; rgba(13, 202, 240, 1);  hsl(190, 89%, 49%) - cyan (info)
+#fff;	 rgba(255, 255, 255, 1); hsl(0, 0%, 100%) - white
+#6c757d; rgba(108, 117, 125, 1); hsl(208, 7%, 45%) - gray (secondary)
+#343a40; rgba(52, 58, 64, 1);    hsl(210, 10%, 22%) - gray-dark
+#f8f9fa; rgba(248, 249, 25, 1);  hsl(210, 16%, 97%) - light
+#212529; rgba(33, 37, 41, 1);    hsl(210, 10%, 14%) - dark

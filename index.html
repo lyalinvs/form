@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <!-- Обязательные метатеги -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
+    <meta name="author" content="Лялин Владимир Сергеевич">
+    <meta name="generator" content="">
+    <title>Форма</title>
+	<!-- мой CSS -->
+	<link href="./css/style.css" rel="stylesheet">
+	<!-- иконка -->
+	<!--<link href="icon">-->
+	
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+  </head>
+  <body>
+	
+	<div class="wrapper">
+		<main class="page">
+			<div class="page__container form-block">
+				<form action="post" class="form">
+					<h2 class="form__title">Форма регистрации</h2>
+					<div class="form__control">
+						<input type="text" class="form__control-input" id="surname" placeholder="Фамилия">
+						<label for="surname">Фамилия</label>
+					</div>
+					<div class="form__control">				
+						<input type="text" class="form__control-input" id="name" placeholder="Имя">
+						<label for="name">Имя</label>
+					</div>
+					<div class="form__control">	
+						<input type="text" class="form__control-input" id="patronymic" placeholder="Отчество">
+						<label for="patronymic">Отчество</label>
+					</div>
+					<div class="form__control">	
+						<input type="date" class="form__control-date" id="date" placeholder="date">
+						<label for="date">Год рождения</label>
+					</div>
+				</form>
+			</div>
+		</main>
+		
+		<footer class="footer">
+			<div class="footer__container">
+				<div class="footer__copyright">
+					<span>Copyright © <script>document.write(new Date().getFullYear())</script> Lyalin Vladimir S.</span>
+				</div>
+			</div>
+		</footer>
+	</div>
+	
+  </body>
+</html>
